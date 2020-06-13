@@ -32,7 +32,7 @@ http://webdev2018.blogspot.com/2018/05/dereban-1.html
 
 Интерфейс взаимодействия с пользователем описан тут:
 
-http://webdev2018.blogspot.com/2018/05/dereban-2.html
+http://webdev2018.blogspot.com/2018/06/dereban-2.html
 
 ## Еще про исходники ##
 
