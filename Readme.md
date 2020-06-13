@@ -32,5 +32,5 @@ https://frontend-basics.blogspot.com/2018/05/HoroshoPosideliBot-part-1.html
 
 Интерфейс взаимодействия с пользователем описан тут:
 
-http://webdev2018.blogspot.com/2018/06/dereban-2.html
+https://frontend-basics.blogspot.com/2018/06/HoroshoPosideliBot-part-2.html
 
