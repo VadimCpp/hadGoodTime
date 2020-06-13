@@ -28,7 +28,7 @@ npm run dev
 
 Алгоритм работы бота описан тут:
 
-http://webdev2018.blogspot.com/2018/05/dereban-1.html
+https://frontend-basics.blogspot.com/2018/05/HoroshoPosideliBot-part-1.html
 
 Интерфейс взаимодействия с пользователем описан тут:
 
