@@ -8,7 +8,7 @@
 
 ``` bash
 # Clone the repo
-git clone https://github.com/sylvan008/hadGoodTime hadGoodTime
+git clone https://github.com/VadimCpp/hadGoodTime hadGoodTime
 
 # Go to project dir
 cd hadGoodTime
