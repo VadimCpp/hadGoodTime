@@ -34,10 +34,3 @@ http://webdev2018.blogspot.com/2018/05/dereban-1.html
 
 http://webdev2018.blogspot.com/2018/06/dereban-2.html
 
-## Еще про исходники ##
-
-Есть вопросы и предложения? Наша команда: 
-
-https://t.me/vadimcpp - все вопросы + программирование
-
-{Oleg} - программирование
